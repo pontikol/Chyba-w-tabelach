@@ -1,0 +1,22 @@
+<html>
+<head>
+<link rel="stylesheet" href="css.css" type="text/css" />
+</head>
+<body>
+<div id="tytul">JAN PAWEŁ II</div>
+<div id="gora">
+<a href="strona1.html"> 1 </a>
+<a href="strona2.html"> 2 </a>
+<a href="strona3.html"> 3 </a>
+<a href="strona4.html"> 4 </a>
+</div>
+<div id="main">WYBIERZ PODSTRONĘ O JANIE PAWLE II
+
+</div>
+<div id="menu">
+<a href="https://pl.wikipedia.org/wiki/Jan_Pawe%C5%82_II#%C5%BByciorys"> Wikipedia </a><br>
+<a href="https://diecezja.pl/apostolowie-milosierdzia/swiety-jan-pawel-ii/"> Archidiecezja </a><br>
+</div>
+<div id="autor">Wykonał: Tylus Piotr</div>
+</body>
+</html>

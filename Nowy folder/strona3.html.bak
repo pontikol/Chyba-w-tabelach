@@ -1,0 +1,19 @@
+<html>
+<head>
+<link rel="stylesheet" href="css.css" type="text/css" />
+</head>
+<body>
+<div id="tytul">JAN PAWEŁ II</div>
+<div id="gora">
+<a href="index.html"> STRONA GŁÓWNA </a>
+<a href="strona1.html"> 1 </a>
+<a href="strona2.html"> 2 </a>
+<a href="strona3.html"> 3 </a>
+<a href="strona4.html"> 4 </a>
+</div>
+<div id="main">jusz ciala
+</div>
+<div id="menu">menu</div>
+<div id="autor">Wykonał: Tylus Piotr</div>
+</body>
+</html>
